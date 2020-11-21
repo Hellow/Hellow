@@ -105,7 +105,7 @@ Bulma has 5 breakpoints
 	/* Appareils avec une résolution de 500 pixels ou moins */
 }
 @media (max-width: 1024px) {
-	.desktop {
+	/* .desktop {
 		display: none;
-	}
+	} */
 }
